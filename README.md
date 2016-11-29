@@ -8,4 +8,4 @@ This Java application implements the software system of a betting centre special
 
 2. clientSPMotorBet, which represents the software and user interface used by customers to make and monitor their bets.
 
-Authors: Paolo Walter Modica & Salvatore Quattropani
+Authors: Salvatore Quattropani & Paolo Walter Modica 
